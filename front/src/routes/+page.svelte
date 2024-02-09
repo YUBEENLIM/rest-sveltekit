@@ -2,6 +2,4 @@
   import '$lib/app.css';
 </script>
 
-<slot />
-<h1 class="text-red-500">Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<div>안녕하세요.</div>
